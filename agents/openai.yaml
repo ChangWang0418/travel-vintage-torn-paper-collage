@@ -1,0 +1,4 @@
+interface:
+  display_name: "复古撕纸拼贴风格"
+  short_description: "保留旅行照片中的人物与记忆片段，结合旧纸、撕边、局部套色制作复古拼贴"
+  default_prompt: "使用 $travel-vintage-torn-paper-collage，将我的旅行照片制作成保留原比例的复古撕纸拼贴作品。"
